@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.startup
+package com.github.tchivs.flinkplatformplugin.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
